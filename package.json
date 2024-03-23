@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "postinstall": "prisma generate",
-    "prdp": "prisma db push"
+    "prdp": "prisma db push",
+    "ps": "prisma studio"
   },
   "dependencies": {
     "@clerk/nextjs": "^4.29.9",
